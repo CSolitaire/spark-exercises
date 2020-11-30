@@ -9,6 +9,8 @@ env.py
 .virtual_documents/
 Thumbs.db
 .vscode/
+*.csv.crc
+*.json.crc
 ################################################### Complete List ###################################################
 .ipynb_checkpoints
 # Created by .ignore support plugin (hsz.mobi)
