@@ -11,6 +11,8 @@ Thumbs.db
 .vscode/
 *.csv.crc
 *.json.crc
+*._SUCCESS.crc
+*_SUCCESS 
 ################################################### Complete List ###################################################
 .ipynb_checkpoints
 # Created by .ignore support plugin (hsz.mobi)
